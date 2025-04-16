@@ -13,8 +13,8 @@ This repository contains Terraform scripts to deploy an Azure Virtual Machine Sc
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/azure-vmss-terraform.git
-cd azure-vmss-terraform
+git clone https://github.com/Curious4Tech/azure_vmss_with_terraform.git
+cd azure_vmss_with_terraform
 ```
 
 ### 2. Configure Credentials
