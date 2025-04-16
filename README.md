@@ -1,0 +1,1 @@
+# azure_vmss_with_terraform
