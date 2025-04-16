@@ -19,14 +19,14 @@ cd azure_vmss_with_terraform
 
 ### 2. Configure Credentials
 
-Create a file named `terraform.tfvars` to store your credentials:
+Create a file named `param.tfvars` to store your credentials:
 
 ```bash
 # Create the file (this file should NOT be committed to Git)
 touch terraform.tfvars
 ```
 
-Edit the `terraform.tfvars` file and add the following content:
+Or edit the `param.tfvars` file and add the following content:
 
 ```hcl
 admin_username = "yourpreferredusername"
