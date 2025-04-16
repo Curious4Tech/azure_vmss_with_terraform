@@ -130,8 +130,8 @@ If you encounter issues:
 
 1. Ensure you're logged into Azure CLI: `az login`
 
-![image](https://github.com/user-attachments/assets/d74201a5-dc2c-4e42-abfc-fc8d621ad7d1)
- 
+![image](https://github.com/user-attachments/assets/1fa2816b-393a-4fa7-a4ae-c6d32d26629a)
+
 2. Check that you have sufficient permissions in your Azure subscription
 4. Verify that your password meets Azure's complexity requirements
 5. Review the Terraform and Azure CLI logs for detailed error messages
