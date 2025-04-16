@@ -1,7 +1,7 @@
 # Configure the Azure provider
 provider "azurerm" {
   features {}
-  subscription_id = "740d2757-b717-42c4-be32-2c197135a7bd"
+  subscription_id = "your_subscription_id"
 }
 
 variable "admin_username" {
